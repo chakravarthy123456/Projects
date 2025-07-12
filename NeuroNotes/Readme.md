@@ -29,7 +29,7 @@ Whether you're a student, researcher, or lifelong learner — NeuroNotes helps y
 
 ## 📦 Installation Instructions
 
-### 🔧 Step 1: Clone the Repository
+## 🔧 Step 1: Clone the Repository
 
 
 git clone https://github.com/yourusername/neuronotes.git
@@ -43,14 +43,15 @@ OR for Linux/Mac:
 source venv/bin/activate
 
 
-**Step 3: Install Required Packages**
+## Step 3: Install Required Packages
 
 pip install -r requirements.txt
 ⚠️ If you get an error with torch, run:
 pip install torch --index-url https://download.pytorch.org/whl/cpu
 
 
- How to Run NeuroNotes
+## How to Run NeuroNotes
+ 
 **🔁 Step 1:** Start the App
 streamlit run app.py
 
