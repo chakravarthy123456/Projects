@@ -31,10 +31,10 @@ Whether you're a student, researcher, or lifelong learner — NeuroNotes helps y
 
 ### 🔧 Step 1: Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/neuronotes.git
 cd neuronotes
-** Step 2: Create and Activate Virtual Environment (Recommended)**
+## Step 2: Create and Activate Virtual Environment (Recommended)
 
 python -m venv venv
 venv\Scripts\activate      # For Windows
