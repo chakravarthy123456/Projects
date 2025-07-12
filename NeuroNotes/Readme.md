@@ -39,7 +39,7 @@ cd neuronotes
 python -m venv venv
 venv\Scripts\activate      # For Windows
 
-# OR for Linux/Mac:
+OR for Linux/Mac:
 source venv/bin/activate
 
 
